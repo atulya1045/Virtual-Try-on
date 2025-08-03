@@ -1,0 +1,6 @@
+.venv
+__pycache__
+clone
+*.pth
+deeplabv3_xception_ade20k_train
+deeplabv3_xception_ade20k_train_2018_05_29.tar.gz
