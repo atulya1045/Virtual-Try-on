@@ -1,0 +1,286 @@
+[
+  {
+    "name": "sea shades",
+    "color": "gray",
+    "hex": "#808080",
+    "brand": "AsianPaints",
+    "code": 9474,
+    "description": "This colour, a duet of lightest hues, whispers its enchanting beauty into a room. Like a field of heather covered by the morning mist, it wraps your space in a delicate atmosphere, so ephemeral you could be walking in a cloud. Let its gossamer light touch your space.",
+    "link": "https://www.asianpaints.com/catalogue/colour-catalogue/grey-wall-colours/sea-shades.html",
+    "price": 200
+  },
+  {
+    "name": "placid blue-n",
+    "color": "blue",
+    "hex": "#0000FF",
+    "brand": "AsianPaints",
+    "code": 9637,
+    "description": "The colour of paradise, an ocean shade glittering under a spectacular summer sky. The spirit soars, the eyes are dazzled and the heart swells. Electrifying colour shades join forces to form a celebration, one that will lift you up to touch the sky.",
+    "link": "https://www.asianpaints.com/catalogue/colour-catalogue/blue-wall-colours/placid-blue-n.html",
+    "price": 200
+  },
+  {
+    "name": "dark almond-n",
+    "color": "brown",
+    "hex": "#A52A2A",
+    "brand": "AsianPaints",
+    "code": 9883,
+    "description": "Character and charisma, apricot darkness and adventure . So intense it is mesmeric. You will be drawn into its enigmatic personality, oozing with sensuous charm. It will transform the vary air around you.",
+    "link": "https://www.asianpaints.com/catalogue/colour-catalogue/brown-wall-colours/dark-almond-n.html",
+    "price": 200
+  },
+  {
+    "name": "scarlet sun-n",
+    "color": "red",
+    "hex": "#FF0000",
+    "brand": "AsianPaints",
+    "code": 9981,
+    "description": "A gorgeous shade, the colour of cherry liqueur and crushed raisin richness. Lavish and luxurious, steeping your space in an endless beauty with a heady and romantic atmosphere. Immerse your space in the incomparable shade that is the deepest hue.",
+    "link": "https://www.asianpaints.com/catalogue/colour-catalogue/red-wall-colours/scarlet-sun-n.html",
+    "price": 200
+  },
+  {
+    "name": "yellow synergy",
+    "color": "yellow",
+    "hex": "#FFFF00",
+    "brand": "AsianPaints",
+    "code": 7842,
+    "description": "Reclaim a quieter place where grasshoppers leap on tender grass and a dewy freshness, clean and cool, flows over the world. This leafy-hued shade has a placid, subdued colouring, ever so wispy and ethereal, comforting the mind.",
+    "link": "https://www.asianpaints.com/catalogue/colour-catalogue/yellow-wall-colours/yellow-synergy.html",
+    "price": 200
+  },
+  {
+    "name": "iris impact",
+    "color": "red",
+    "hex": "#FF00FF",
+    "brand": "AsianPaints",
+    "code": 7109,
+    "description": "A teasing, intriguing, complex shade that sets off resonances - a fascinating colourscape, engaging and perfect, one that calls to mind the mysteries of the universe and the wonder of discovery.",
+    "link": "https://www.asianpaints.com/catalogue/colour-catalogue/purple-wall-colours/iris-impact.html",
+    "price": 200
+  },
+  {
+    "name": "lilac frost",
+    "color": "white",
+    "hex": "#FFFFFF",
+    "brand": "AsianPaints",
+    "code": 7148,
+    "description": "Simplicity is the ultimate sophistication. A pale and pretty color is not just easy on the eye, it is striking because of its quiet confidence that makes it stand apart from louder shades. You will be entranced by its natural style.",
+    "link": "https://www.asianpaints.com/catalogue/colour-catalogue/off-white-wall-colours/lilac-frost.html",
+    "price": 200
+  },
+  {
+    "name": "Baby’s Breath",
+    "color": "Pink",
+    "hex": "#FFC6D9",
+    "brand": "AsianPaints",
+    "code": "9525",
+    "description": "This delicate, pastel shade is inspired by the beauty of Baby's Breath flowers. The colour exudes calmness and purity, making it a great choice for a relaxing and inviting space. Complement this colour with white and light-toned furniture for a clean, refreshing look.",
+    "link": "https://www.asianpaints.com/catalogue/colour-catalogue/pink-wall-colours/babys-breath.html",
+    "price": 220
+  },
+  {
+    "name": "Misty Morn",
+    "color": "Green",
+    "brand": "AsianPaints",
+    "code": "7996",
+    "description": "Bring the beauty of a misty morning into your home with this refreshing and serene green shade. Misty Morn has a calming effect, making it perfect for bedrooms and study rooms. Pair this colour with wooden furniture for a warm and cozy feel.",
+    "link": "https://www.asianpaints.com/catalogue/colour-catalogue/green-wall-colours/misty-morn.html",
+    "price": 220,
+    "hex": "#9BC995"
+  },
+  {
+    "name": "Ocean Breeze",
+    "color": "Blue",
+    "brand": "AsianPaints",
+    "code": "7619",
+    "description": "As the name suggests, this colour is inspired by the soothing and serene atmosphere of the ocean. Ocean Breeze has a calming effect, making it perfect for bedrooms and bathrooms. Pair this colour with white furniture and accessories for a fresh and clean look.",
+    "link": "https://www.asianpaints.com/catalogue/colour-catalogue/blue-wall-colours/ocean-breeze.html",
+    "price": 220,
+    "hex": "#9DBFD3"
+  },
+  {
+    "name": "Sultry Pink",
+    "color": "Pink",
+    "brand": "AsianPaints",
+    "code": "9404",
+    "description": "Add a touch of romance to your home with this beautiful and elegant pink shade. Sultry Pink is perfect for bedrooms and living rooms. Pair this colour with gold accessories and furniture for a luxurious and sophisticated look.",
+    "link": "https://www.asianpaints.com/catalogue/colour-catalogue/pink-wall-colours/sultry-pink.html",
+    "price": 220,
+    "hex": "#FFA7B7"
+  },
+  {
+    "name": "iris impact",
+    "color": "purple",
+    "brand": "Nerolac",
+    "code": "7109",
+    "description": "A teasing, intriguing, complex shade that sets off resonances - a fascinating colourscape, engaging and perfect, one that calls you to a place of strange and wonderful beauty where the rich tones and hues of the two great colours of the spectrum meld.",
+    "link": "https://www.asianpaints.com/catalogue/colour-catalogue/purple-wall-colours/iris-impact.html",
+    "price": 200,
+    "hex": "#800080"
+  },
+  {
+    "name": "lilac frost",
+    "color": "white",
+    "brand": "Nerolac",
+    "code": "7148",
+    "description": "Simplicity is the ultimate sophistication. A pale and pretty color is not just easy on the eye, it is striking because of its quiet confidence that makes it stand apart from louder shades. You will be entranced by its natural style.",
+    "link": "https://www.asianpaints.com/catalogue/colour-catalogue/off-white-wall-colours/lilac-frost.html",
+    "price": 200
+  },
+  {
+    "name": "ZAFFRAN",
+    "color": "red",
+    "brand": "Nerolac",
+    "code": "4117",
+    "description": "A colour that smiles back at you with open heart. Zaffran colour is a vibrant and high-spirited shade of red which infuses joy and cheerfulness in your space.\n\nIt has a very warm and organic aura while creating an environment of comfort and well-being. Use contrast colour furniture in pale grey or white and give your room a rustic-style makeover.\n\nFor best results, pair Zaffran with fresh palettes of red, neutrals, and green.",
+    "link": "https://www.nerolac.com/colour-catalogue/zaffran",
+    "price": 170
+  },
+  {
+    "name": "LIGHTED EMBERS",
+    "color": "orange",
+    "brand": "Nerolac",
+    "code": "4606",
+    "description": "",
+    "link": "https://www.nerolac.com/colour-catalogue/lighted-embers",
+    "price": 170
+  },
+  {
+    "name": "TAWNY LION",
+    "color": "yellow",
+    "brand": "Nerolac",
+    "code": "2049",
+    "description": "",
+    "link": "https://www.nerolac.com/colour-catalogue/tawny-lion",
+    "price": 170
+  },
+  {
+    "name": "AFRICAN QUEEN",
+    "color": "green",
+    "brand": "Nerolac",
+    "code": "2531",
+    "description": "A suggested serving of splendid colour. Get your daily fix with this mossy olive green that’s the secret to a well-balanced space. For those who aren’t afraid to bring the drama. This mysterious, moody green is intense and alluring all at once. Use this paint all over or as an accent wall for a deeply toned feel in your dining or living room. Use a lighter shade on the remaining walls for a soothing ambience.",
+    "link": "https://www.nerolac.com/colour-catalogue/african-queen",
+    "price": 170
+  },
+  {
+    "name": "OCEANNIA BLUE",
+    "color": "blue",
+    "brand": "Nerolac",
+    "code": 4248,
+    "description": "Oceania Blue colour carries the sweet-salty mood of a long lone sail. Though life is a party yet depths of me-moment are so cathartic. A lazy day with your favourite food, beverage, music, and book in the pampering soft hue of this cyan shade is an instant game and keeps you centered on self-love. Oceania Blue colour feels magical when sprinkled with orange, hot pink, yellow, forest green, amber, earthly tones, and nudes.",
+    "url": "https://www.nerolac.com/colour-catalogue/oceannia-blue",
+    "price": 170
+  },
+  {
+    "name": "VIVOLICITY",
+    "color": "violet",
+    "brand": "Nerolac",
+    "code": 4180,
+    "description": "",
+    "url": "https://www.nerolac.com/colour-catalogue/vivolicity",
+    "price": 170,
+    "hex": "#9400d3"
+  },
+  {
+    "name": "KODIAK",
+    "color": "brown",
+    "brand": "Nerolac",
+    "code": 2852,
+    "description": "Strength and stability are qualities that make a lasting impression. It is important to live in the moment and take every day with a cool and calm composure. Kodiak lights up the room with the joy of simple pleasures. When the light reflects off a surface with this colour, it adds more character to the space, providing a wholesome environment of warmth and prosperity. Spice this colour up by pairing it with blues, greens and rose gold.",
+    "link": "https://www.nerolac.com/colour-catalogue/kodiak",
+    "price": 170,
+    "hex": "#a52a2a"
+  },
+  {
+    "name": "BUBBLEGUM",
+    "color": "pink",
+    "brand": "Nerolac",
+    "code": 2234,
+    "description": "A pastel shade which is as soft as a petal. This comforting shade will add a refreshing change to your space and give incredible depth to your walls. Bubblegum adds a refreshing tone to the otherwise luxurious hue. This gorgeous shade will instantly transform your space into something magical and mystical. Paint your walls with this colour and embark on a colour journey like no other! For better results, pair this colour with muted shades of yellow and green.",
+    "link": "https://www.nerolac.com/colour-catalogue/bubblegum",
+    "price": 170,
+    "hex": "#ffc0cb"
+  },
+  {
+    "name": "PURPLE SHADE",
+    "color": "purple",
+    "brand": "Nerolac",
+    "code": 2300,
+    "description": "",
+    "link": "https://www.nerolac.com/colour-catalogue/purple-shade",
+    "price": 170,
+    "hex": "#800080"
+  },
+  {
+    "name": "GRAY'S LILY",
+    "color": "gray",
+    "brand": "Nerolac",
+    "code": 2332,
+    "description": "",
+    "link": "https://www.nerolac.com/colour-catalogue/gray-s-lily",
+    "price": 170,
+    "hex": "#808080"
+  },
+  {
+    "name": "CHINA DOLL",
+    "color": "red",
+    "brand": "BergerPaints",
+    "code": "0001",
+    "link": "https://www.bergerpaints.com/utility-tools/virtual-colour-painter/",
+    "price": 185,
+    "description": "",
+    "hex": "#FF0000"
+  },
+  {
+    "name": "LONG BEACH",
+    "color": "orange",
+    "brand": "BergerPaints",
+    "code": "20034",
+    "link": "https://www.bergerpaints.com/utility-tools/colour-catalogue/orange-colour-shades/",
+    "price": 185,
+    "description": "",
+    "hex": "#FFA500"
+  },
+  {
+    "name": "WHITE BLISS",
+    "color": "yellow",
+    "brand": "BergerPaints",
+    "code": "30049",
+    "link": "https://www.bergerpaints.com/utility-tools/colour-catalogue/yellow-colour-shades/",
+    "price": 185,
+    "description": "",
+    "hex": "#FFFF00"
+  },
+  {
+    "name": "MINT TEA",
+    "color": "green",
+    "brand": "BergerPaints",
+    "code": "40090",
+    "link": "https://www.bergerpaints.com/utility-tools/colour-catalogue/green-colour-shades/",
+    "price": 185,
+    "description": "",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "FROSTED ICE",
+    "color": "blue",
+    "brand": "BergerPaints",
+    "code": "5013",
+    "link": "https://www.bergerpaints.com/utility-tools/colour-catalogue/blue-colour-shades/",
+    "price": 185,
+    "description": "",
+    "hex": "#0000FF"
+  },
+  {
+    "name": "GENTLE FLOWER",
+    "color": "violet",
+    "brand": "BergerPaints",
+    "code": "60153",
+    "link": "https://www.bergerpaints.com/utility-tools/colour-catalogue/violet-colour-shades/",
+    "price": 185,
+    "description": "",
+    "hex": "#8B00FF"
+  }
+]
